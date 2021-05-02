@@ -1,0 +1,14 @@
+com/edirmuber/MainApplication.java
+ com.edirmuber.MainApplication
+ com.edirmuber.MainApplication$1
+com/edirmuber/MainActivity.java
+ com.edirmuber.MainActivity
+com/edirmuber/ReactNativeFlipper.java
+ com.edirmuber.ReactNativeFlipper
+ com.edirmuber.ReactNativeFlipper$1
+ com.edirmuber.ReactNativeFlipper$2
+ com.edirmuber.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/edirmuber/BuildConfig.java
+ com.edirmuber.BuildConfig
